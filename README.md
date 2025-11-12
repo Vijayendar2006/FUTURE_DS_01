@@ -1,5 +1,5 @@
 ## 🌍 Superstore Sales Dashboard
-This Power BI project provides an interactive Global Sales Performance Dashboard that visualizes key sales insights across different regions, products, and time periods.
+This Power BI project provides an interactive Superstore Sales Dashboard that visualizes key sales insights across different regions, products, and time periods.
 It helps users understand overall performance, identify trends, and make data-driven decisions.
 
 ## 📊 Project Overview
