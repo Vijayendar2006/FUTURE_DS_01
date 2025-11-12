@@ -1,9 +1,9 @@
-## 🌍 Global Sales Performance Dashboard
+## 🌍 Superstore Sales Dashboard
 This Power BI project provides an interactive Global Sales Performance Dashboard that visualizes key sales insights across different regions, products, and time periods.
 It helps users understand overall performance, identify trends, and make data-driven decisions.
 
 ## 📊 Project Overview
-The Global Sales Performance Dashboard is designed to analyze worldwide sales data and present it in an easy-to-understand format.
+The Superstore Sales Dashboard is designed to analyze worldwide sales data and present it in an easy-to-understand format.
 The dashboard allows users to explore metrics such as:
 
 Sum of Discount by State
@@ -22,7 +22,7 @@ Data Modeling: Relationships between multiple tables
 Visualizations: Line Charts, Bar Charts, Maps, Cards, and Slicers
 ## 📂 File Included
 File Name	Description
-Task1.pbix	Power BI file containing the Global Sales Performance Dashboard
+Task1.pbix	Power BI file containing the Superstore Sales Dashboard
 ## 🚀 How to Open the File
 Download and install Power BI Desktop.
 Clone this repository or download the .pbix file.
